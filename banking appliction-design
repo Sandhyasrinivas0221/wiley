@@ -1,13 +1,1 @@
-Banking Application
 
-- client
-    -existing user or not
-        -if existing user-display menu-
-                                     1.current account
-                                     2.saving account
-                         -After choosing account
-                                      1.deposit money
-                                      2.withdral money
-   -not an existing user
-                1.create an account
-                2.exist
